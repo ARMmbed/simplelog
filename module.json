@@ -1,0 +1,17 @@
+{
+  "name": "simplelog",
+  "version": "1.0.0",
+  "description": "Really simple logging",
+  "keywords": [
+    "logging"
+  ],
+  "author": "James Crosby <james.crosby@arm.com>",
+  "repository": {
+    "url": "ssh://git@github.com/ARMmbed/simplelog",
+    "type": "git"
+  },
+  "homepage": "http://github.com/ARMmbed/simplelog",
+  "license": "Apache-2",
+  "dependencies": {},
+  "targetDependencies": {}
+}
